@@ -1,1 +1,2 @@
 # Anamoly-Detection-in-Human-Emotional-Analysis
+Anomaly detection for human emotion analysis involves identifying unusual or unexpected patterns in emotional data. This approach aims to detect outliers or anomalies that deviate significantly from the norm in emotional expressions. By using statistical techniques or machine learning algorithms, anomalies in human emotion data can be flagged for further investigation. This method can help in understanding rare emotional states, detecting fraudulent behavior, or uncovering hidden patterns in emotional responses.
